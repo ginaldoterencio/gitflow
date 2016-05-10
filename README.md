@@ -6,11 +6,13 @@ Pacote de snippets para processos do gitflow
 
 ```bash
 gitflow create-branch [nome-do-branch]
+```
 
 **Faz merge no branch com o working**
 
 ```bash
 gitflow deploy [nome-do-branch]
+```
 
 **TODO**
 * Verificar se repositório está limpo antes de criar branch ou fazer deploy
