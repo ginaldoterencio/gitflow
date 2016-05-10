@@ -1,6 +1,11 @@
 # GIT FLOW Snippets
 Pacote de snippets para processos do gitflow
 
+**Instalação**
+
+```bash
+npm install -g gitflow-snippets
+```
 
 **Cria novo branch**
 

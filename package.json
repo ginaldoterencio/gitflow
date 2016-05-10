@@ -1,6 +1,6 @@
 {
   "name": "gitflow-snippets",
-  "version": "1.0.2222222222222222222222",
+  "version": "1.1.0",
   "description": "Snippets for gitflow proccess",
   "main": "index.js",
   "scripts": {
