@@ -1,10 +1,15 @@
 # GIT FLOW Snippets
 Pacote de snippets para processos do gitflow
 
+
 **Cria novo branch**
+
+```bash
 gitflow create-branch [nome-do-branch]
 
 **Faz merge no branch com o working**
+
+```bash
 gitflow deploy [nome-do-branch]
 
 **TODO**
